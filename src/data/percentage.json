@@ -1,0 +1,860 @@
+[
+  {
+    "id": 1,
+    "question": "A bacteria culture increases by 20% every hour for 3 hours, then decreases by 10% in the 4th hour, and finally increases by 25% in the 5th hour. If the initial count was 5,000, what will be the approximate count after 5 hours?",
+    "options": {
+      "a": "8,900",
+      "b": "9,830",
+      "c": "9,650",
+      "d": "9,720"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 2,
+    "question": "The population of a city was 5000000 in 2020. The population grows 7.5% annually. The population in 2022 is",
+    "options": {
+      "a": "5778125",
+      "b": "5875215",
+      "c": "5558875",
+      "d": "5887125"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 3,
+    "question": "The number of bacteria in a petri dish was 1,20,000. It increased by 10% in the first hour and changed by x in the second hour. In the third hour, it increases by 10%. If the current number is 1,16,160, then determine the change in population in the second hour.",
+    "options": {
+      "a": "The population decreased by 20%.",
+      "b": "The population decreased by 26,000.",
+      "c": "The population decreased by 29,040.",
+      "d": "The population decreased by 22%."
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 4,
+    "question": "A town has a present population of 2,40,000. Every year the population increases by a birth rate of 12% and decreases by a death rate of 7%. Find the population of the town at the end of 3 years.",
+    "options": {
+      "a": "2,92,500",
+      "b": "2,98,000",
+      "c": "2,77,830",
+      "d": "3,27,830"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 5,
+    "question": "The price of an article increases by 20% every year. If the difference between the price of the article at the end of the third year and at the end of the fourth year is 324, what is the price of the article at the end of the first year?",
+    "options": {
+      "a": "₹1,350",
+      "b": "₹1,180",
+      "c": "₹1,125",
+      "d": "₹1,250"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 6,
+    "question": "The population of a town increases annually by 20%. If the present population is 80 lakh, then what is the difference between the population three years ago and 2 years ago?",
+    "options": {
+      "a": "75592.6",
+      "b": "85592.6",
+      "c": "65592.6",
+      "d": "925925.93"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 7,
+    "question": "After increasing the numerator of a fraction by 20% and decreasing the denominator by 30% we got 4/5. What is the original fraction.",
+    "options": {
+      "a": "7/13",
+      "b": "7/15",
+      "c": "4/13",
+      "d": "4/15"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 8,
+    "question": "If the numerator of a fraction is increased by 1/4 and the denominator is decreased by 1/3 the new fraction obtained is 33/64. What was the original fraction?",
+    "options": {
+      "a": "9/11",
+      "b": "5/7",
+      "c": "3/7",
+      "d": "11/40"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 9,
+    "question": "After spending 40% on machinery, 25% on building, 15% on raw material and 5% on furniture, a small scale industry owner had a balance of Rs.130500. Total money with him (in rupees) was",
+    "options": {
+      "a": "650000",
+      "b": "722500",
+      "c": "870000",
+      "d": "1390"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 10,
+    "question": "From the salary of a software engineer, if 15% is used as house rent, 25% of the remaining is spent on household items, 25% of the remaining as income tax, and 15% of the remaining on clothing, then he is left with 10,404. Find his total salary.",
+    "options": {
+      "a": "22,600",
+      "b": "24,600",
+      "c": "25,600",
+      "d": "23,600"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 11,
+    "question": "An employee contributes 20% of their salary to charity. From the remaining amount, 40% is allocated to investments. The rest is divided for education and travel in the ratio 7: 5. If the expense on travel is 6000, what is the employee's total salary?",
+    "options": {
+      "a": "28,000",
+      "b": "30,000",
+      "c": "32,000",
+      "d": "35,000"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 12,
+    "question": "A man spends 35% of his monthly income on food and four-thirteenths of the remaining income on transport. He incurs some other expenses, but also saves Rs.6,300 per month, the latter being equal to 20% of the balance remaining just after spending on food and transport. What is his monthly income (in Rs.)?",
+    "options": {
+      "a": "67500",
+      "b": "72,000",
+      "c": "70,000",
+      "d": "63000"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 13,
+    "question": "Savita spends 20% of her monthly income on groceries, 15% of the remaining on rent and then 60% of the left over on children's education and others. If she saves 9,792 a month, then how much (in Rs) does she spend on rent?",
+    "options": {
+      "a": "3,960",
+      "b": "4,450",
+      "c": "4,200",
+      "d": "4,320"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 14,
+    "question": "In a school, 4% of the students did not appear for the annual exams. 10% of the students who appeared for the exams could not pass the exam. Out of the remaining students, 50% got distinction marks and 432 students passed the exam but could not get distinction marks. The total number of students in school is:",
+    "options": {
+      "a": "878",
+      "b": "1000",
+      "c": "1200",
+      "d": "960"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 15,
+    "question": "If the price of a book is first increased by 25% and then increased by 20%, the net change in the price of the book will be:",
+    "options": {
+      "a": "45% increase",
+      "b": "22.5% increase",
+      "c": "50% increase",
+      "d": "55% increase"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 16,
+    "question": "A number is first decreased by 10%, then increased by 30% and then further it is decreased by 20%. What is the net decrease percentage in the number?",
+    "options": {
+      "a": "4 1/5%",
+      "b": "6 2/5%",
+      "c": "5 3/5%",
+      "d": "3 4/5%"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 17,
+    "question": "The strength of a school increases and decreases every alternate year by 15%. If it started with an increase in 2012, then the strength of the school in the beginning of 2015, as compared to that in 2012, had (correct to two decimal places):",
+    "options": {
+      "a": "Decreased by 12.41%",
+      "b": "Increased by 12.41%",
+      "c": "Decreased by 13.85%",
+      "d": "Increased by 13.85%"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 18,
+    "question": "A number is first increased by 12% and then increased by 23%. The number, so obtained, is now decreased by 34%. What is the net increase or decrease percent in the original number (nearest to an integer)?",
+    "options": {
+      "a": "10% increase",
+      "b": "9% decrease",
+      "c": "10% decrease",
+      "d": "9% increase"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 19,
+    "question": "The price of a product is decreased by x% and then increased by x%. The final price becomes 10% less than the original. What is the value of x (approximately)?",
+    "options": {
+      "a": "31.6",
+      "b": "33.6",
+      "c": "30.6",
+      "d": "39.6"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 20,
+    "question": "A mutual fund's value increases by 20% in the first year, remains unchanged in the second year and then increases by 25% in the third year. In the fourth year, its value declines by an unknown percentage such that the final value is exactly 12.5% above the initial investment. Calculate the unknown percentage decrease in the fourth year.",
+    "options": {
+      "a": "24%",
+      "b": "28%",
+      "c": "20%",
+      "d": "25%"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 21,
+    "question": "An employee gets two successive increments in his salary, as a result of which his salary becomes 2.5 times the initial salary. What was his first percentage increment, if the second percentage increment was 4 times as high as the first?",
+    "options": {
+      "a": "10%",
+      "b": "25%",
+      "c": "50%",
+      "d": "12%"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 22,
+    "question": "The production of bottles rose to 26000 from 16000 in 2 years. Find the rate of growth per annum.",
+    "options": {
+      "a": "26.47%",
+      "b": "37.47%",
+      "c": "28.47%",
+      "d": "27.47%"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 23,
+    "question": "The length of a rectangle is increased by 30% and breadth decreased by 20%. The % change in area of rectangle is:",
+    "options": {
+      "a": "56%",
+      "b": "4%",
+      "c": "16%",
+      "d": "104%"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 24,
+    "question": "On decreasing the price of fans by 30%, the sale is increased by 20%. What is the effect on the income of shopkeeper?",
+    "options": {
+      "a": "10% increase",
+      "b": "10% decrease",
+      "c": "16% increase",
+      "d": "16% decrease"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 25,
+    "question": "The total percentage change in the volume of a cuboid if its length and breadth are decreased by 15% and 25%, respectively, while its height is increased by 60% is:",
+    "options": {
+      "a": "5% decrease",
+      "b": "2% decrease",
+      "c": "5% increase",
+      "d": "2% increase"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 26,
+    "question": "A right circular cylinder's height increases by 96% while its radius decreases by 25%. What is the approximate percentage change in its volume? Select the nearest integer.",
+    "options": {
+      "a": "8% decrease",
+      "b": "10% increase",
+      "c": "12% increase",
+      "d": "15% increase"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 27,
+    "question": "The price of a commodity has increased by 60%. In order to restore to the original price, the new price must be reduced by:",
+    "options": {
+      "a": "33%",
+      "b": "37.5%",
+      "c": "40%",
+      "d": "45%"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 28,
+    "question": "The price of sugar is increased by 20% and again increased by 25%. By what percentage it has to be decreased now to get back to the original price?",
+    "options": {
+      "a": "25",
+      "b": "33.33",
+      "c": "45",
+      "d": "50"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 29,
+    "question": "The length of a rectangle is increased by 20% then by how much the breadth should be decreased so that the area remains the same?",
+    "options": {
+      "a": "20%",
+      "b": "10%",
+      "c": "16.66%",
+      "d": "33.33%"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 30,
+    "question": "The price of cooking oil has increased by 25%. The percentage of reduction that a family should affect in the use of cooking oil so as not to increase the expenditure on this account is:",
+    "options": {
+      "a": "15%",
+      "b": "20%",
+      "c": "25%",
+      "d": "33.33%"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 31,
+    "question": "When the price of an item was reduced by 20%, its sale increased by x%. If there is an increase of 25% in receipt of the revenue, then the value of x is:",
+    "options": {
+      "a": "57.75",
+      "b": "56.25",
+      "c": "55.35",
+      "d": "54.35"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 32,
+    "question": "The price of a commodity increases by 28%. However, the expenditure on it increases by 12%. What is the percentage increase or decrease in its consumption?",
+    "options": {
+      "a": "16% Increase",
+      "b": "12.5% Decrease",
+      "c": "12.5% Increase",
+      "d": "16% Decrease"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 33,
+    "question": "The radius of a cylindrical jar is increased by 25%. By what % the height must be decreased so that the volume just increases by 12.5%?",
+    "options": {
+      "a": "38.88%",
+      "b": "28%",
+      "c": "56.25%",
+      "d": "37.5%"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 34,
+    "question": "A reduction of 20% in the rate of sugar enables Sudhir to get 6 kg more sugar for Rs 960. What is the reduced rate of sugar per kg?",
+    "options": {
+      "a": "Rs. 35",
+      "b": "Rs. 36",
+      "c": "Rs. 32",
+      "d": "Rs. 40"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 35,
+    "question": "Due to an increase of 50% in the price of eggs, 4 eggs less are available for Rs.24. The present rate of eggs per dozen is:",
+    "options": {
+      "a": "24",
+      "b": "27",
+      "c": "36",
+      "d": "42"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 36,
+    "question": "In a manufacturing unit, it was noted that the price of raw material has increased by 25% and the labour cost has gone up from 30% of the cost of raw material to 38% of the cost of the raw material. What percentage of the consumption of raw material be reduced to keep the cost the same as that before the increase?",
+    "options": {
+      "a": "20.7%",
+      "b": "30.2%",
+      "c": "24.6%",
+      "d": "25.5%"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 37,
+    "question": "In a village, 60% of the adults were males and the rest were females. Due to demographic changes the number of males increased by 15% and number of females increased by 10%. Find the % increase in the population of the village.",
+    "options": {
+      "a": "12%",
+      "b": "13%",
+      "c": "25%",
+      "d": "12.5%"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 38,
+    "question": "The expenditure of a household on food, clothing, and entertainment is in the ratio 2:4:4. In the coming year, the cost of food is expected to fall by 10%, clothing to rise by 5%, and entertainment to fall by 15%. What is the percent change (increase or decrease) in the total household expenditure?",
+    "options": {
+      "a": "5% decrease",
+      "b": "6% increase",
+      "c": "6% decrease",
+      "d": "5% increase"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 39,
+    "question": "The budget for a construction project is allocated to land acquisition, building materials, and labor in the ratio 5:3:2. During the project, the cost of land acquisition rose by 5%, building materials rose by 10%, and labor fell by 20%. What is the percent change (increase or decrease) in the total project cost?",
+    "options": {
+      "a": "1.0% increase",
+      "b": "1.5% decrease",
+      "c": "1.5% increase",
+      "d": "2.0% decrease"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 40,
+    "question": "A contractor estimated that a project would cost 5,00,000. He planned for 60% of the cost to go to materials, 25% to labor, and the rest as contingency. However, due to delays, material cost increased by 12.5%, labor cost increased by 10%, and contingency remained unchanged. What is the new total cost?",
+    "options": {
+      "a": "₹5,45,000",
+      "b": "₹5,60,000",
+      "c": "₹5,52,000",
+      "d": "₹5,50,000"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 41,
+    "question": "Sudha saves 15% of her income. If her expenditure increased by 20% and savings increased by 60%, then by what percent has her income increased?",
+    "options": {
+      "a": "26",
+      "b": "35",
+      "c": "24",
+      "d": "30"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 42,
+    "question": "An employee used to save 40% of his salary. If his salary increases by 30% and his expenses increases by 20%, what is the percentage increases in his savings?",
+    "options": {
+      "a": "20%",
+      "b": "30%",
+      "c": "40%",
+      "d": "45%"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 43,
+    "question": "Raju's income is 44.44% more than his expenditure. If his income increases by 60% and his expenditure increases by 70%, his savings increase by 12,000. What is the difference between his initial expenditure and his initial savings?",
+    "options": {
+      "a": "40000",
+      "b": "44000",
+      "c": "32000",
+      "d": "72000"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 44,
+    "question": "The monthly expenses of a person are 66 2/3% more than her monthly savings. If her monthly income increases by 44% and her monthly expenses increase by 60%, then there is an increase of ₹1,040 in her monthly savings. What is the initial expenditure (in ₹)?",
+    "options": {
+      "a": "9,000",
+      "b": "10,000",
+      "c": "12,000",
+      "d": "13,000"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 45,
+    "question": "The cost of an apple is twice that of a banana and the cost of a banana is 25% less than that of a guava. If the cost of apple increased by 20%, cost of banana increased by 10% and cost of guava increased by 30%, then the percentage increase in the cost of 8 bananas, 2 apples and 9 guavas is:",
+    "options": {
+      "a": "10%",
+      "b": "15%",
+      "c": "21.66%",
+      "d": "25%"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 46,
+    "question": "Fresh grapes contain 75% water whereas dried grapes contain 25% water. How many kgs of fresh grapes are required to get 20kgs of dried grapes?",
+    "options": {
+      "a": "50 kg",
+      "b": "60 kg",
+      "c": "75 kg",
+      "d": "80 kg"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 47,
+    "question": "Fresh grapes contain 80% water while dry grapes contain 10% water. If the weight of dry grapes is 250 kg, what was its total weight when it was fresh?",
+    "options": {
+      "a": "1000 kg",
+      "b": "1100 kg",
+      "c": "1125 kg",
+      "d": "1225 kg"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 48,
+    "question": "Fresh grapes contain 80% water. If 50 kg of these grapes are dried and their weight reduces to 40 kg, what is the percentage of water in the dried grapes?",
+    "options": {
+      "a": "80%",
+      "b": "75%",
+      "c": "60%",
+      "d": "50%"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 49,
+    "question": "The monthly salary of a person was 1,60,000. He used to spend on three heads-Personal and family expenses (P), Taxes (T) and Education loan (E). The rest were his savings. P was 50% of the income. E was 20% of P and T was 15% of E. When his salary got raised by 30%, he maintained the percentage level of P but E became 30% of P and T became 20% of E. The sum of the two savings (in ₹) is:",
+    "options": {
+      "a": "2,11,680",
+      "b": "1,28,160",
+      "c": "1,18,620",
+      "d": "1,62,810"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 50,
+    "question": "The monthly salary of a person was 50,000. He used to spend on Family expenses (E), Taxes (T), Charity (C), and the rest were his savings. E was 60% of the income. T was 20% of E, and C was 15% of T. When his salary got raised by 40%, he maintained the percentage level of E, but T becomes 30% of E and C becomes 20% of T. The difference between the two savings (in ₹) is:",
+    "options": {
+      "a": "128",
+      "b": "220",
+      "c": "130",
+      "d": "250"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 51,
+    "question": "The income of A is 30% less than the income of B and the income of B is 137.5% more than that of C. If the income of A is 28500 less than that of B, then the income (in ₹) of C is:",
+    "options": {
+      "a": "36000",
+      "b": "48000",
+      "c": "40000",
+      "d": "50000"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 52,
+    "question": "A is 25% less than B, B is 30% less than C, and C is 50% more than D. If the difference between A and C is 285, then 33 1/3% of B is equal to:",
+    "options": {
+      "a": "140",
+      "b": "150",
+      "c": "120",
+      "d": "105"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 53,
+    "question": "In an examination. B obtained 20% more marks than those obtained by A, and A obtained 10% less marks than those obtained by C. D obtained 20% more marks than those obtained by C. By what percentage are the marks obtained by D more than those obtained by A?",
+    "options": {
+      "a": "33 1/3%",
+      "b": "13 1/3%",
+      "c": "43 1/3%",
+      "d": "23 1/3%"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 54,
+    "question": "A is 20% more than B, B is 25% more than C, C is 60% less than D and D is 20% more than E. Based on the above information, which of the following is true?",
+    "options": {
+      "a": "D is 60% less than B",
+      "b": "E is 28% more than A",
+      "c": "A is 40% less than D",
+      "d": "C is 24% less than A"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 55,
+    "question": "A number is mistakenly multiplied by 7/5 instead of being multiplied by 3/2 What is the percentage change in the result due to this mistake?",
+    "options": {
+      "a": "6 2/3%",
+      "b": "7 2/3%",
+      "c": "3 2/3%",
+      "d": "5 2/3%"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 56,
+    "question": "By mistake, the reciprocal of a positive fraction got typed in place of itself, and thereby its value got reduced by 175/4%. What was the value of the fraction?",
+    "options": {
+      "a": "1/4",
+      "b": "1/2",
+      "c": "4/3",
+      "d": "3/4"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 57,
+    "question": "The difference between a positive number and its reciprocal increases to 175/144 of its original value when the number is made to increase by 20%. What is the number?",
+    "options": {
+      "a": "7.5",
+      "b": "6",
+      "c": "2.5",
+      "d": "5"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 58,
+    "question": "A train starts from station P with 'n' number of passengers. At station Q, 20% of the passengers get down and 50 passengers get in. At station R, 40% of the passengers get down and 10 passengers get in. If a total of 520 passengers are left on the train, find the value of 'n'.",
+    "options": {
+      "a": "750",
+      "b": "1000",
+      "c": "975",
+      "d": "855"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 59,
+    "question": "A fruit seller sells 45% of the oranges that he has along with one more orange to a customer. He then sells 20% of the remaining oranges and 2 more oranges to a second customer. He then sells 90% of the now remaining oranges to a third customer and is still left with 5 oranges. How many oranges did the fruit seller have initially?",
+    "options": {
+      "a": "100",
+      "b": "111",
+      "c": "121",
+      "d": "120"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 60,
+    "question": "If 20% of x=y, then y% of 20 is the same as:",
+    "options": {
+      "a": "5% of x",
+      "b": "4% of x",
+      "c": "10% of x",
+      "d": "7% of x"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 61,
+    "question": "If 20% of a number is subtracted from a second number and the second number decreases to its 70%, then what is the ratio of the first number to the second number?",
+    "options": {
+      "a": "3:4",
+      "b": "4:3",
+      "c": "3:2",
+      "d": "2:3"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 62,
+    "question": "The salaries of P and Q together amount to 9,60,000. P and Q save 64% and 44%, respectively of their individual salaries. If P's expenditure is 1.5 times Q's expenditure, then what is the ratio of P's salary to Q's salary?",
+    "options": {
+      "a": "2:3",
+      "b": "7:3",
+      "c": "3:7",
+      "d": "3:2"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 63,
+    "question": "In a constituency, 45% of the total number of voters are males and the rest are females. If 60% of the males are illiterate and 60% of the females are literate, then by what per cent is the number of illiterate females more than that of literate males? (Rounded off to 2 decimal places)",
+    "options": {
+      "a": "19.11%",
+      "b": "27.23%",
+      "c": "30.24%",
+      "d": "22.22%"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 64,
+    "question": "In a class, 60% of the students are girls and the rest are boys. 45% of the girls pass an examination and 40% of the boys failed. If the number of girls who failed is 66, the number of boys who passed the examination is:",
+    "options": {
+      "a": "36",
+      "b": "48",
+      "c": "54",
+      "d": "60"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 65,
+    "question": "A stationery shop ordered 6 dozen red pens and some additional dozen blue pens. The price of the red pens per dozen was three times that of the blue ones. When the order was delivered, it was found that the number of dozens of the two colours had been interchanged. This increased the bill by 40%. Find the ratio of the number of dozens of red pens to the number of dozens of blue pens in the original order.",
+    "options": {
+      "a": "1:1",
+      "b": "1:2",
+      "c": "2:3",
+      "d": "3:4"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 66,
+    "question": "A stationery supplier ordered 8 boxes of premium pens and some boxes of standard pens. The price of premium pens per box was twice that of standard pens. When the order was delivered, the number of boxes of premium and standard pens had been accidentally interchanged. This increased the total bill by 25%. What was the ratio of the original number of boxes of premium pens to the original number of boxes of standard pens?",
+    "options": {
+      "a": "2:1",
+      "b": "1:3",
+      "c": "1:2",
+      "d": "3:1"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 67,
+    "question": "In an election between two candidates P and Q, P got 78% of the total valid votes. If the total votes of the electorate were 75,60,000, then what was the number of valid votes that Q got if 10% of the voters did not cast their vote and 15% of the votes polled were declared invalid?",
+    "options": {
+      "a": "1,41,372",
+      "b": "1,41,732",
+      "c": "12,72,348",
+      "d": "1,47,312"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 68,
+    "question": "In an election between two candidates, 75% of the voters cast their votes, out of which 4% of the votes were declared invalid. A candidate got 9504 votes, which were 80% of the valid votes. Find the total number of votes enrolled in that election.",
+    "options": {
+      "a": "12,375",
+      "b": "12,672",
+      "c": "13,200",
+      "d": "16,500"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 69,
+    "question": "In an election between two candidates, 10% of the voters did not cast their votes and 5% of the votes polled were found invalid. The successful candidate got 52.5% of the valid votes and won by a majority of 1710 votes. The number of voters enrolled on the voters list was:",
+    "options": {
+      "a": "36000",
+      "b": "40000",
+      "c": "42000",
+      "d": "48000"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 70,
+    "question": "In an election between two candidates, 30% of the electorate did not cast their votes. 20% of the votes polled were found invalid. The winning candidate got 64% of the valid votes and won by a majority of 3136 votes. Find the number of voters enrolled in the voter list.",
+    "options": {
+      "a": "24000",
+      "b": "20000",
+      "c": "30000",
+      "d": "25000"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 71,
+    "question": "In an election between two candidates, y% of the voters did not vote. 20% of the votes cast were declared invalid, while all the valid votes were cast in favour of either of the two candidates. The candidate who got 58 1/3% of the valid votes cast was declared elected by 3,000 votes. If the number of people eligible to vote in that election was 25,000, what is the value of y?",
+    "options": {
+      "a": "10",
+      "b": "12",
+      "c": "15",
+      "d": "8"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 72,
+    "question": "In an election between A and B, every fifth vote polled was marked as invalid by the machine. In the remaining votes, A wins the election with a margin of 2500 votes or 10% of the total votes polled, over B. If 90% of the invalid votes would have been in favour of B, then which of the following would have been the result of the election?",
+    "options": {
+      "a": "B would have won by 8%",
+      "b": "B would have won by 3%",
+      "c": "A would have won by 3%",
+      "d": "A would have won by 8%"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 73,
+    "question": "In an election between P, R and S, 1/10 of the total votes polled are invalid. Votes polled in favour of R and S are half of the total votes polled, and they get equal votes. Due to a fault in the machine, half of the votes of S and half of the invalid votes are counted additionally in favour of R. What is the overall percentage of votes secured by R due to the fault?",
+    "options": {
+      "a": "37.55%",
+      "b": "41.55%",
+      "c": "38.5%",
+      "d": "42.5%"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 74,
+    "question": "In an election, 2% persons enrolled in the voter list did not participate and 500 votes were invalid. Two candidates A and B fought the election, and A defeated B by 200 votes, if 43% of the persons enrolled in the voter list casted their votes in favour of A, then what is the number of the total casted votes?",
+    "options": {
+      "a": "2450",
+      "b": "2500",
+      "c": "3000",
+      "d": "3250"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 75,
+    "question": "Hari, Kamal and Lalit contested an election in which 6050 votes were polled and none of the votes were invalid. Kamal got 42% more votes than the total votes obtained by Hari and Lalit together. If Lalit obtained only 8% of the total polled votes, find the number of votes obtained by Hari.",
+    "options": {
+      "a": "1556",
+      "b": "2016",
+      "c": "1668",
+      "d": "1912"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 76,
+    "question": "In an election, 95% of the total voters cast their votes. In this election, there were only two candidates A and B. The winner A, by obtaining 75% of the total votes, defeated his contestant B by 5500 votes. Find the total number of voters in the election.",
+    "options": {
+      "a": "11,000",
+      "b": "10,000",
+      "c": "13,000",
+      "d": "12,000"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 77,
+    "question": "In an election, A received 27% of the votes and B received 125,982 votes. 19% did not cast their votes. Find the number of votes received by A.",
+    "options": {
+      "a": "44,327",
+      "b": "1,88,973",
+      "c": "57,827",
+      "d": "62,991"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 78,
+    "question": "In an election between two candidates, 30% voters did not cast their votes and 200 votes were declared invalid. The winner got 65% of the valid votes. If he won by 1200 votes, then find the total votes.",
+    "options": {
+      "a": "9000",
+      "b": "6000",
+      "c": "7000",
+      "d": "8000"
+    },
+    "correctAnswer": "b"
+  }
+]
