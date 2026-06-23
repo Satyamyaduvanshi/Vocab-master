@@ -3,7 +3,8 @@
 import React, { useState, useEffect, Suspense } from "react";
 import { useSearchParams, useRouter } from "next/navigation";
 import { ArrowRight, Home, CheckCircle2, XCircle } from "lucide-react";
-import mathData from "@/data/percentage.json"; 
+
+import importedMathData from "@/data/percentage.json"; 
 
 type MathQuestion = {
   id: number;
@@ -11,6 +12,8 @@ type MathQuestion = {
   options: { a: string; b: string; c: string; d: string };
   correctAnswer: "a" | "b" | "c" | "d";
 };
+
+const mathData = importedMathData as MathQuestion[];
 
 const shuffleArray = <T,>(array: T[]): T[] => {
   const newArr = [...array];
